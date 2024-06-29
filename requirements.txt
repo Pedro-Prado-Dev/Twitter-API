@@ -1,0 +1,5 @@
+tweepy==4.12.1
+pandas==1.5.3
+SQLAlchemy==1.4.44
+Flask==2.3.2
+matplotlib==3.7.2
